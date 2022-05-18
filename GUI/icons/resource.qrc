@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="logout">
+    <file>logout.png</file>
+  </qresource>
+  <qresource prefix="window">
+    <file>window.png</file>
+  </qresource>
+  <qresource prefix="login">
+    <file>login.png</file>
+  </qresource>
+  <qresource prefix="todaywork">
+    <file>todaywork.png</file>
+  </qresource>
+  <qresource prefix="history">
+    <file>history.png</file>
+  </qresource>
+  <qresource prefix="setting">
+    <file>setting.png</file>
+  </qresource>
+</RCC>
